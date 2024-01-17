@@ -20,7 +20,7 @@
     ],
     "license": "MIT",
     "minimum-stability": "stable",
-    "name": "drteam/uon",
+    "name": "drteam/uonphp8",
     "require": {
         "php": ">=8.0",
         "ext-curl": "*",
