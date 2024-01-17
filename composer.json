@@ -1,7 +1,7 @@
 {
     "authors": [
         {
-            "homepage": "dispector312.com",
+            "homepage": "https://dispector312.com",
             "email": "dispector312@gmail.com",
             "name": "dispector312",
             "role": "Developer"
@@ -20,7 +20,7 @@
     ],
     "license": "MIT",
     "minimum-stability": "stable",
-    "name": "https://dispector312/uonphp8",
+    "name": "dispector312/uonphp8",
     "require": {
         "php": ">=8.0",
         "ext-curl": "*",
