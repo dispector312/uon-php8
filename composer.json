@@ -20,7 +20,7 @@
     ],
     "license": "MIT",
     "minimum-stability": "stable",
-    "name": "dispector312/uonphp8",
+    "name": "https://dispector312/uonphp8",
     "require": {
         "php": ">=8.0",
         "ext-curl": "*",
