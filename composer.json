@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "UONPHP8\\": "src/"
+            "UON\\": "src/"
         }
     },
     "description": "U-On Travel RESTful API Client",
